@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Interdum cubilia auctor",
+      "body": "Velit vulputate per et nulla pharetra primis quis, egestas consectetur eleifend justo mus posuere donec fames, curabitur parturient consequat fusce ultrices ornare. Fermentum nisi elementum imperdiet pellentesque fringilla, phasellus sollicitudin orci proin magnis laoreet, erat etiam ipsum egestas. Ornare laoreet mi quis tincidunt at cubilia eleifend donec, elementum inceptos luctus malesuada vulputate dui maecenas, penatibus magnis nascetur habitant faucibus aptent facilisis."
+    },
+    {
+      "id": 2,
+      "title": "Fusce commodo tristique",
+      "body": "Consequat commodo diam quis tempus odio porttitor metus senectus, hac posuere eleifend orci bibendum donec congue, arcu nostra sem condimentum habitant malesuada nisi. Nibh rutrum ipsum neque in himenaeos quis habitasse leo, adipiscing suspendisse id curae dis montes congue, morbi laoreet odio non cras consectetur mus. Montes dictum leo eleifend maecenas mus class sociosqu venenatis magna amet, adipiscing magnis in quis inceptos mollis cras consectetur aliquet pulvinar dolor, ridiculus ut sapien primis condimentum tortor aliquam viverra sociis."
+    },
+    {
+      "title": "baru",
+      "body": "baru",
+      "id": 4
+    }
+  ]
+}
